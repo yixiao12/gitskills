@@ -1,3 +1,3 @@
 # gitskills
 merge Creating a new branch is quick and simple.
-debug101
+debug 1010101
